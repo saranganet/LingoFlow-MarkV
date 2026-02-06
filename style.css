@@ -66,3 +66,17 @@ body::before {
         grid-template-areas: 
             "header"
             "main"
+            "footer";
+    }
+    .sidebar {
+        display: none; /* Hide sidebar on mobile for now */
+    }
+}
+
+.main-header {
+    grid-area: header;
+    padding: var(--spacing-main);
+    border-bottom: 1px solid var(--glass-border);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
