@@ -150,3 +150,17 @@ body::before {
 
 .analytics-grid {
     display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: var(--spacing-main);
+}
+
+.insight-card {
+    padding: var(--spacing-main);
+}
+
+.timeline-container {
+    padding: var(--spacing-main);
+}
+
+.timeline-month {
+    position: relative;
