@@ -164,3 +164,17 @@ body::before {
 
 .timeline-month {
     position: relative;
+    padding-left: 20px;
+    border-left: 2px solid var(--glass-border);
+    margin-bottom: 30px;
+}
+
+.month-title {
+    font-size: 0.9rem;
+    color: var(--primary);
+    margin-bottom: 16px;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+}
+
+.timeline-entry {
