@@ -178,3 +178,17 @@ body::before {
 }
 
 .timeline-entry {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+    margin-bottom: 12px;
+    font-size: 0.85rem;
+    color: var(--text-muted);
+}
+
+.entry-time {
+    color: var(--text-main);
+    font-weight: 500;
+}
+
+.entry-dot {
