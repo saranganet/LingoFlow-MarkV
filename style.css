@@ -206,3 +206,17 @@ body::before {
     justify-content: space-between;
     align-items: center;
     margin-bottom: 20px;
+}
+
+.stat-card {
+    padding: var(--spacing-main);
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    transition: all 0.3s ease;
+    cursor: default;
+}
+
+.stat-card:hover {
+    border-color: var(--primary);
+    transform: translateY(-4px);
