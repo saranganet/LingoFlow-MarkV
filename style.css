@@ -234,3 +234,17 @@ body::before {
     font-family: 'Outfit', sans-serif;
     font-size: 2rem;
     font-weight: 700;
+    color: var(--text-main);
+}
+
+.stat-desc {
+    font-size: 0.75rem;
+    color: var(--text-muted);
+}
+
+.heatmap-container {
+    display: grid;
+    grid-template-flow: column;
+    grid-auto-flow: column;
+    grid-template-rows: repeat(7, 12px);
+    grid-auto-columns: 12px;
