@@ -276,3 +276,17 @@ body::before {
     display: flex;
     align-items: center;
     gap: 8px;
+    font-size: 0.7rem;
+    color: var(--text-dim);
+}
+
+.main-footer {
+    grid-area: footer;
+    padding: 16px var(--spacing-main);
+    border-top: 1px solid var(--glass-border);
+    font-size: 0.8rem;
+    color: var(--text-dim);
+    display: flex;
+    justify-content: space-between;
+}
+
