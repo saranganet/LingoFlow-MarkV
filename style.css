@@ -468,3 +468,10 @@ body::before {
     --lingo-line-height: 1.6;
     --lingo-letter-spacing: 0.01em;
 }
+
+/* March 12 - UI Depth */
+.lingo-card {
+    background: rgba(255, 255, 255, 0.05);
+    backdrop-filter: blur(10px);
+    border: 1px solid rgba(255, 255, 255, 0.1);
+}
