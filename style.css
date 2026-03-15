@@ -481,3 +481,7 @@ body::before {
     from { opacity: 0; transform: scale(0.98); }
     to { opacity: 1; transform: scale(1); }
 }
+
+/* Revision 1 - March 15, 2026 */
+:root { --lingo-accent-1: #12d687; --lingo-glow-1: rgba(50, 100, 150, 0.2); }
+/* Optimized for the LingoFlow-MarkV ecosystem */
