@@ -505,3 +505,7 @@ body::before {
 /* Revision 6 - March 20, 2026 */
 :root { --lingo-accent-6: #71072a; --lingo-glow-6: rgba(45, 90, 135, 0.2); }
 /* Optimized for the LingoFlow-MarkV ecosystem */
+
+/* Revision 7 - March 21, 2026 */
+.utility-spacing-7 { margin-bottom: 17px; gap: 8px; display: flex; flex-direction: column; }
+/* Optimized for the LingoFlow-MarkV ecosystem */
