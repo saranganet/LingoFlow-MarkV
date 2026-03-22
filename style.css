@@ -509,3 +509,7 @@ body::before {
 /* Revision 7 - March 21, 2026 */
 .utility-spacing-7 { margin-bottom: 17px; gap: 8px; display: flex; flex-direction: column; }
 /* Optimized for the LingoFlow-MarkV ecosystem */
+
+/* Revision 8 - March 22, 2026 */
+.flow-container-8 { border-radius: 12px; box-shadow: 0 4px 12px var(--glass-border); padding: 20px; }
+/* Optimized for the LingoFlow-MarkV ecosystem */
