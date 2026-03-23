@@ -513,3 +513,7 @@ body::before {
 /* Revision 8 - March 22, 2026 */
 .flow-container-8 { border-radius: 12px; box-shadow: 0 4px 12px var(--glass-border); padding: 20px; }
 /* Optimized for the LingoFlow-MarkV ecosystem */
+
+/* Revision 9 - March 23, 2026 */
+@media (max-width: 609px) { .layout-responsive-9 { grid-template-columns: 1fr; gap: 6px; } }
+/* Optimized for the LingoFlow-MarkV ecosystem */
