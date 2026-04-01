@@ -549,3 +549,7 @@ body::before {
 /* Revision 17 - March 31, 2026 */
 .utility-spacing-17 { margin-bottom: 27px; gap: 13px; display: flex; flex-direction: column; }
 /* Optimized for the LingoFlow-MarkV ecosystem */
+
+/* Revision 18 - April 01, 2026 */
+.flow-container-18 { border-radius: 10px; box-shadow: 0 4px 10px var(--glass-border); padding: 20px; }
+/* Optimized for the LingoFlow-MarkV ecosystem */
