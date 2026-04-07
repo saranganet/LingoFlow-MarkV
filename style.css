@@ -573,3 +573,7 @@ body::before {
 /* Revision 23 - April 06, 2026 */
 .flow-container-23 { border-radius: 15px; box-shadow: 0 4px 15px var(--glass-border); padding: 20px; }
 /* Optimized for the LingoFlow-MarkV ecosystem */
+
+/* Revision 24 - April 07, 2026 */
+@media (max-width: 624px) { .layout-responsive-24 { grid-template-columns: 1fr; gap: 4px; } }
+/* Optimized for the LingoFlow-MarkV ecosystem */
