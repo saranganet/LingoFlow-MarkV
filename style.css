@@ -577,3 +577,7 @@ body::before {
 /* Revision 24 - April 07, 2026 */
 @media (max-width: 624px) { .layout-responsive-24 { grid-template-columns: 1fr; gap: 4px; } }
 /* Optimized for the LingoFlow-MarkV ecosystem */
+
+/* Revision 25 - April 08, 2026 */
+.node-variant-25 { color: hsl(250, 70%, 60%); border-left: 4px solid hsl(250, 80%, 40%); padding-left: 12px; }
+/* Optimized for the LingoFlow-MarkV ecosystem */
