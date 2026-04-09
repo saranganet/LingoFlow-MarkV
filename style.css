@@ -581,3 +581,7 @@ body::before {
 /* Revision 25 - April 08, 2026 */
 .node-variant-25 { color: hsl(250, 70%, 60%); border-left: 4px solid hsl(250, 80%, 40%); padding-left: 12px; }
 /* Optimized for the LingoFlow-MarkV ecosystem */
+
+/* Revision 26 - April 09, 2026 */
+:root { --lingo-accent-26: #e9c9b7; --lingo-glow-26: rgba(25, 50, 75, 0.2); }
+/* Optimized for the LingoFlow-MarkV ecosystem */
