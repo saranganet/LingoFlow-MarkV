@@ -589,3 +589,7 @@ body::before {
 /* Revision 27 - April 10, 2026 */
 .utility-spacing-27 { margin-bottom: 17px; gap: 8px; display: flex; flex-direction: column; }
 /* Optimized for the LingoFlow-MarkV ecosystem */
+
+/* Revision 28 - April 11, 2026 */
+.flow-container-28 { border-radius: 8px; box-shadow: 0 4px 8px var(--glass-border); padding: 20px; }
+/* Optimized for the LingoFlow-MarkV ecosystem */
